@@ -1,0 +1,12 @@
+instance_destroy()
+
+
+
+
+
+
+
+
+
+
+
